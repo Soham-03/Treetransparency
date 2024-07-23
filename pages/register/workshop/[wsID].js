@@ -8,7 +8,7 @@ import LoadingAnimation from "../../../components/misc/Loading.js";
 import loadingstyles from "../../../pages/index.module.css";
 import { PrimaryButton as PrimaryButtonBase } from "../../../components/misc/Buttons.js";
 import { SectionHeading, Subheading as SubheadingBase } from "../../../components/misc/Headings.js";
-import { workshopList } from "../../../services/workshops.js";
+// import { workshopList } from "../../../services/workshops.js";
 
 import bgStyles from "../../../styles/bgStyles.module.css";
 import { EventRegistrationForm } from '../../../components/events/eventRegForm';
